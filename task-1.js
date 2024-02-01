@@ -8,7 +8,7 @@ for (let i = 0; i < myPlace.length; i++) {
         charSum = charSum + 1;
     }
 }
-console.log(aSum);
+console.log(charSum);
 
 // Count with function and for loop
 const str = 'I studied at Jatiya Kabi Kazi Nazrul Islam University';
